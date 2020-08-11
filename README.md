@@ -1,6 +1,6 @@
 # E-learning platform mock-up
 
-An E-learning platform mock-up built with **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express**, and **SQLite**.  
+An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Node.js](https://nodejs.org/)**, **[Express](https://expressjs.com/)**, and **[SQLite](https://www.sqlite.org/)**.  
 <br>
 
 ### **_bootcamp:_**  
