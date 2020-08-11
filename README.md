@@ -1,6 +1,7 @@
 # E-learning platform mock-up
 
 An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*, *Express*, and *SQLite*.  
+<br>
 
 #### **_bootcamp:_**  
 
@@ -9,16 +10,18 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 ### [Next Level Week #2](https://nextlevelweek.com/)
 
 *Discovery* with [Mayk Brito](https://github.com/maykbrito)  
+<br>
 
 #### **_screenshots:_**  
 
-![mobile](./public/images/screenshot-home-mobile.png)  
+![mobile](./readme/screeshots/home_mobile.png)  
 
-![home](./public/images/screenshot-home.png)  
+![home](./readme/screeshots/home_desk.png)  
 
-![estudar](./public/images/screenshot-study.png)  
+![estudar](./readme/screeshots/study.png)  
 
-![dar-aulas](./public/images/screenshot-give-classes.png)  
+![dar-aulas](./readme/screeshots/give-classes.png)  
+<br>
 
 #### **_tools "Front-end":_**  
 
@@ -33,6 +36,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 [Visual Studio Code Extension "Launchbase Theme"](https://marketplace.visualstudio.com/items?itemName=maykbrito.theme-launchbase)  
 
 [Figma](https://www.figma.com/)  
+<br>
 
 #### **_tools "Back-end":_**  
 
@@ -46,7 +50,8 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 [SQLite](https://www.sqlite.org/)  
 
-[Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+[Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)  
+<br>
 
 #### **_install package.json dependencies:_**
 
@@ -54,6 +59,7 @@ on bash/terminal
 ```
 npm install
 ```
+<br>
 
 #### **_run the project:_**  
 
@@ -70,6 +76,7 @@ or
 
 http://localhost:5500/  
   
+<br>
 
 #### **_deploy to [GitHub Pages](https://pages.github.com/):_**
 
@@ -77,6 +84,7 @@ on bash/terminal
 ```
 npm run deploy
 ```
+<br>
 
 #### **_concepts:_**  
 
@@ -85,6 +93,7 @@ npm run deploy
 [What is Mobile First Design? Why It’s Important & How To Make It?](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00)  
 
 [Template Engine](https://en.wikipedia.org/wiki/Template_processor)  
+<br>
 
 #### **_references:_**  
 
