@@ -5,9 +5,9 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 ### **_bootcamp:_**  
 
-## [Rocketseat](https://rocketseat.com.br/)
+### [Rocketseat](https://rocketseat.com.br/)
 
-### [Next Level Week #2](https://nextlevelweek.com/)
+#### [Next Level Week #2](https://nextlevelweek.com/)
 
 *Discovery* with [Mayk Brito](https://github.com/maykbrito)  
 <br>
