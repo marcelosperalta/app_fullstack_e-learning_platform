@@ -3,7 +3,7 @@
 An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*, *Express*, and *SQLite*.  
 <br>
 
-#### **_bootcamp:_**  
+### **_bootcamp:_**  
 
 ## [Rocketseat](https://rocketseat.com.br/)
 
@@ -12,7 +12,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 *Discovery* with [Mayk Brito](https://github.com/maykbrito)  
 <br>
 
-#### **_screenshots:_**  
+### **_screenshots:_**  
 
 ![mobile](./readme/screeshots/home_mobile.png)  
 
@@ -23,7 +23,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 ![dar-aulas](./readme/screeshots/give-classes.png)  
 <br>
 
-#### **_tools "Front-end":_**  
+### **_tools "Front-end":_**  
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)  
 
@@ -38,7 +38,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 [Figma](https://www.figma.com/)  
 <br>
 
-#### **_tools "Back-end":_**  
+### **_tools "Back-end":_**  
 
 [Git Bash](https://gitforwindows.org/)  
 
@@ -53,7 +53,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 [Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)  
 <br>
 
-#### **_install package.json dependencies:_**
+### **_install package.json dependencies:_**
 
 on bash/terminal  
 ```
@@ -61,7 +61,7 @@ npm install
 ```
 <br>
 
-#### **_run the project:_**  
+### **_run the project:_**  
 
 on bash/terminal  
 ```
@@ -78,7 +78,7 @@ http://localhost:5500/
   
 <br>
 
-#### **_deploy to [GitHub Pages](https://pages.github.com/):_**
+### **_deploy to [GitHub Pages](https://pages.github.com/):_**
 
 on bash/terminal  
 ```
@@ -86,7 +86,7 @@ npm run deploy
 ```
 <br>
 
-#### **_concepts:_**  
+### **_concepts:_**  
 
 [Responsive web design (Mobile First...)](https://en.wikipedia.org/wiki/Responsive_web_design)  
 
@@ -95,6 +95,6 @@ npm run deploy
 [Template Engine](https://en.wikipedia.org/wiki/Template_processor)  
 <br>
 
-#### **_references:_**  
+### **_references:_**  
 
 [How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
