@@ -29,7 +29,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 ![dar-aulas](./readme/screeshots/give-classes.png)  
 <br>
 
-### :hammer: **_tools "Front-end":_**  
+## :wrench: **_tools "Front-end":_**  
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)  
 
