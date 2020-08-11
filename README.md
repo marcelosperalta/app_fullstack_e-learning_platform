@@ -3,7 +3,7 @@
 An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Node.js](https://nodejs.org/)**, **[Express](https://expressjs.com/)**, and **[SQLite](https://www.sqlite.org/)**.  
 <br>
 
-### **_bootcamp:_**  
+### :rocket: **_bootcamp:_**  
 
 ### [Rocketseat](https://rocketseat.com.br/)
 
@@ -14,7 +14,9 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 ![nlw2](./readme/logos/nwl2.jpg)
 <br>
 
-### **_screenshots:_**  
+### :computer: **_screenshots:_**  
+
+:iphone:  
 
 ![mobile](./readme/screeshots/home_mobile.png)  
 
@@ -100,3 +102,5 @@ npm run deploy
 ### **_references:_**  
 
 [How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
+
+[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
