@@ -1,6 +1,6 @@
 # E-learning platform mock-up
 
-An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*, *Express*, and *SQLite*.  
+An E-learning platform mock-up built with **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express**, and **SQLite**.  
 <br>
 
 ### **_bootcamp:_**  
