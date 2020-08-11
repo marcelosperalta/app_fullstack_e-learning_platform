@@ -10,7 +10,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 *Discovery* with [Mayk Brito](https://github.com/maykbrito)  
 
-**_screenshots:_**  
+#### **_screenshots:_**  
 
 ![mobile](./public/images/screenshot-home-mobile.png)  
 
@@ -20,7 +20,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 ![dar-aulas](./public/images/screenshot-give-classes.png)  
 
-**_tools "Front-end":_**  
+#### **_tools "Front-end":_**  
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)  
 
@@ -34,7 +34,7 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 [Figma](https://www.figma.com/)  
 
-**_tools "Back-end":_**  
+#### **_tools "Back-end":_**  
 
 [Git Bash](https://gitforwindows.org/)  
 
@@ -48,14 +48,14 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 [Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
 
-**_install package.json dependencies:_**
+#### **_install package.json dependencies:_**
 
 on bash/terminal  
 ```
 npm install
 ```
 
-**_run the project:_**  
+#### **_run the project:_**  
 
 on bash/terminal  
 ```
@@ -69,15 +69,16 @@ http://127.0.0.1:5500/
 or  
 
 http://localhost:5500/  
+  
 
-**_deploy to GitHub Pages_**
+#### **_deploy to [GitHub Pages](https://pages.github.com/):_**
 
 on bash/terminal  
 ```
 npm run deploy
 ```
 
-**_concepts:_**  
+#### **_concepts:_**  
 
 [Responsive web design (Mobile First...)](https://en.wikipedia.org/wiki/Responsive_web_design)  
 
@@ -85,6 +86,6 @@ npm run deploy
 
 [Template Engine](https://en.wikipedia.org/wiki/Template_processor)  
 
-**_references:_**  
+#### **_references:_**  
 
 [How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
