@@ -1,5 +1,6 @@
 module.exports = async function(db, {proffyValue, classValue, classScheduleValues}) {
-    // inserir dados na tabela de proffys
+
+    // instert data on the "proffys" table
     const insertedProffy = await db.run(`
         INSERT INTO proffys (
             name,
@@ -16,8 +17,7 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
 
     const proffy_id = insertedProffy.lastID
 
-    // inserir dados na tabela classes
-
+    // instert data on the "classes" table
     const insertedClass = await db.run(`
             INSERT INTO classes (
                 subject,
@@ -32,7 +32,7 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
 
     const class_id = insertedClass.lastID
 
-    // inserir dados na tabela class_schedule
+    // instert data on the "class_schedule" table
     const insertedAllClassScheduleValues = classScheduleValues.map((classScheduleValue) => {
         return db.run(`
         INSERT INTO class_schedule (
@@ -49,6 +49,6 @@ module.exports = async function(db, {proffyValue, classValue, classScheduleValue
         `)
     })
     
-    // aqui vou executar todos os db.runs() das class_schedules
+    // execute all the "db.runs()" of the "class_schedules"
     await Promise.all(insertedAllClassScheduleValues)
 }

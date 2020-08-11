@@ -1,6 +1,22 @@
 # E-learning platform mock-up
 
 An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Node.js](https://nodejs.org/)**, **[Express](https://expressjs.com/)**, and **[SQLite](https://www.sqlite.org/)**.  
+
+
+<div align="center">
+<img src="./readme/logos/HTML5.png" width="25">
+&nbsp
+<img src="./readme/logos/CSS3.png" width="25">
+&nbsp
+<img src="./readme/logos/JS.png" width="25">
+&nbsp
+<img src="./readme/logos/node.png" width="45">
+&nbsp
+<img src="./readme/logos/express.png" width="81">
+&nbsp
+<img src="./readme/logos/SQLite.png" width="62">
+</div>
+
 <br>
 
 ## :mortar_board: **_bootcamp:_**  
