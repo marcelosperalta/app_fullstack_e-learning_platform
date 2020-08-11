@@ -10,6 +10,8 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 #### [Next Level Week #2](https://nextlevelweek.com/)
 
 *Discovery* with [Mayk Brito](https://github.com/maykbrito)  
+
+![nlw2](./readme/logos/nwl2.jpg)
 <br>
 
 ### **_screenshots:_**  
