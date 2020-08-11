@@ -48,6 +48,12 @@ An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*
 
 [Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
 
+**_install package.json dependencies:_**
+on bash/terminal  
+```
+npm install
+```
+
 **_run the project:_**  
 
 on bash/terminal  
