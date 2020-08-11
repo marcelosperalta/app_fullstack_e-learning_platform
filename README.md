@@ -76,12 +76,7 @@ npm run dev
 
 on browser  
 
-http://127.0.0.1:5500/  
-
-or  
-
-http://localhost:5500/  
-  
+http://127.0.0.1:5500/ or http://localhost:5500/  
 <br>
 
 ## :rocket: **_deploy to [GitHub Pages](https://pages.github.com/):_**
@@ -105,4 +100,4 @@ npm run deploy
 
 [How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
 
-[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)
+[EMOJI CHEAT SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)  
