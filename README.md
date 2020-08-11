@@ -2,7 +2,7 @@
 
 An E-learning platform mock-up built with *HTML*, *CSS*, *JavaScript*, *Node.js*, *Express*, and *SQLite*.  
 
-**_bootcamp:_**  
+#### **_bootcamp:_**  
 
 ## [Rocketseat](https://rocketseat.com.br/)
 
