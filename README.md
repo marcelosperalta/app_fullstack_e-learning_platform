@@ -68,8 +68,14 @@ http://127.0.0.1:5500/
 
 or  
 
-http://localhost:5500/
+http://localhost:5500/  
 
+**_deploy to GitHub Pages_**
+
+on bash/terminal  
+```
+npm run deploy
+```
 
 **_concepts:_**  
 
