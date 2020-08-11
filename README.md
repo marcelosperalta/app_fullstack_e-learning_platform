@@ -16,11 +16,11 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 ## :camera: **_screenshots:_**  
 
-:iphone:  
+## :iphone:  
 
 ![mobile](./readme/screeshots/home_mobile.png)  
 
-:computer:  
+## :computer:  
 
 ![home](./readme/screeshots/home_desk.png)  
 
