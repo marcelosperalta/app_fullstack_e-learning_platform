@@ -3,7 +3,7 @@
 An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CSS](https://www.w3.org/Style/CSS/)**, **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**, **[Node.js](https://nodejs.org/)**, **[Express](https://expressjs.com/)**, and **[SQLite](https://www.sqlite.org/)**.  
 <br>
 
-### :rocket: **_bootcamp:_**  
+### :mortar_board: **_bootcamp:_**  
 
 ### [Rocketseat](https://rocketseat.com.br/)
 
@@ -14,11 +14,13 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 ![nlw2](./readme/logos/nwl2.jpg)
 <br>
 
-### :computer: **_screenshots:_**  
+### :camera: **_screenshots:_**  
 
 :iphone:  
 
 ![mobile](./readme/screeshots/home_mobile.png)  
+
+:computer:  
 
 ![home](./readme/screeshots/home_desk.png)  
 
@@ -27,7 +29,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 ![dar-aulas](./readme/screeshots/give-classes.png)  
 <br>
 
-### **_tools "Front-end":_**  
+### :hammer: **_tools "Front-end":_**  
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)  
 
@@ -42,7 +44,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 [Figma](https://www.figma.com/)  
 <br>
 
-### **_tools "Back-end":_**  
+### :hammer: **_tools "Back-end":_**  
 
 [Git Bash](https://gitforwindows.org/)  
 
@@ -57,7 +59,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 [Visual Studio Code Extension "SQLite"](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)  
 <br>
 
-### **_install package.json dependencies:_**
+### :dvd: **_install package.json dependencies:_**
 
 on bash/terminal  
 ```
@@ -65,7 +67,7 @@ npm install
 ```
 <br>
 
-### **_run the project:_**  
+### :runner: **_run the project:_**  
 
 on bash/terminal  
 ```
@@ -82,7 +84,7 @@ http://localhost:5500/
   
 <br>
 
-### **_deploy to [GitHub Pages](https://pages.github.com/):_**
+### :rocket: **_deploy to [GitHub Pages](https://pages.github.com/):_**
 
 on bash/terminal  
 ```
@@ -90,7 +92,7 @@ npm run deploy
 ```
 <br>
 
-### **_concepts:_**  
+### :green_book: **_concepts:_**  
 
 [Responsive web design (Mobile First...)](https://en.wikipedia.org/wiki/Responsive_web_design)  
 
@@ -99,7 +101,7 @@ npm run deploy
 [Template Engine](https://en.wikipedia.org/wiki/Template_processor)  
 <br>
 
-### **_references:_**  
+### :blue_book: **_references:_**  
 
 [How to Write an Awesome GitHub README](https://healeycodes.com/github/beginners/tutorial/productivity/2019/04/14/writing-an-awesome-github-readme.html)  
 
