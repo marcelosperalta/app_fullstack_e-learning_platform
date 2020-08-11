@@ -4,17 +4,19 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 
 <div align="center">
-<img src="./readme/logos/HTML5.png" width="35">
+<img src="./readme/logos/HTML5.png" width="69">
 &nbsp
-<img src="./readme/logos/CSS3.png" width="35">
+<img src="./readme/logos/CSS3.png" width="50">
 &nbsp
-<img src="./readme/logos/JS.png" width="35">
 &nbsp
-<img src="./readme/logos/node.png" width="55">
+<img src="./readme/logos/JS.png" width="70">
 &nbsp
-<img src="./readme/logos/express.png" width="91">
 &nbsp
-<img src="./readme/logos/SQLite.png" width="72">
+<img src="./readme/logos/node.png" width="110">
+&nbsp
+<img src="./readme/logos/express.png" width="200">
+&nbsp
+<img src="./readme/logos/SQLite.png" width="150">
 </div>
 
 <br>
