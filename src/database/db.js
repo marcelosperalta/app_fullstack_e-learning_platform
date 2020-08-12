@@ -1,11 +1,8 @@
 const Database = require("sqlite-async")
 
 function execute(db) {
-    // console.log("cheguei aqui")
-    // console.log(db)
 
-    // criar as tabelas (entidades) do banco de dados.
-    // SQLite = banco de dados relacional
+    // create the table on the database
     return db.exec(`
         CREATE TABLE IF NOT EXISTS proffys (
             id INTEGER PRIMARY KEY AUTOINCREMENT,

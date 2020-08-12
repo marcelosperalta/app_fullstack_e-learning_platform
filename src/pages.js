@@ -2,28 +2,19 @@ const Database = require("./database/db")
 
 const { subjects, weekdays, getSubject, convertHoursToMinutes } = require("./utils/format")
 
-//Funcionalidades
-
 function pageLanding(req, res) {
-    // return res.sendFile(__dirname + "/views/index.html");
     return res.render("index.html");
 }
 
 async function pageStudy(req, res) {
- // return res.sendFile(__dirname + "/views/study.html");
- // return res.render("study.html", { proffys: proffys, title: "Hi from Nunjucks" });
- // return res.render("study.html", { diego: proffys[0] });
- // console.log(req.query);
+
     const filters = req.query;
 
     if (!filters.subject || !filters.weekday || !filters.time) {
         return res.render("study.html", { filters, subjects, weekdays })
     }
-    // console.log("Nao tem campos vazios")
 
-    // converter horas em minutos
     const timeToMinutes = convertHoursToMinutes(filters.time)
-
 
     const query = `    
         SELECT classes.*, proffys.*
@@ -40,7 +31,7 @@ async function pageStudy(req, res) {
         AND classes.subject = '${filters.subject}'
     `
 
-    // caso haja erro na hora da colsuta do banco de dados.
+    // if the database query fails
     try {
         const db = await Database
         const proffys = await db.all(query)
@@ -58,34 +49,12 @@ async function pageStudy(req, res) {
 }
 
 function pageGiveClasses(req, res) {
-    // return res.sendFile(__dirname + "/views/give-classes.html");
-    // const data = req.query;
-    // console.log(dados);
-
-    // [name, avatar, bio...]
-    // const isEmpty = Object.keys(data).length == 0
-    // const isNotEmpty = Object.keys(data).length != 0
-    // se tiver dados
-    // const isNotEmpty = Object.keys(data).length > 0
-    // if (isNotEmpty) {
-    //     // console.log("Entrei aqui");
-
-    //     data.subject = getSubject(data.subject)
-
-    //     // adicionar dados a lista de proffys
-    //     proffys.push(data);
-
-    //     return res.redirect("/study")
-    // }
-
-    // // se nao, mostrar a pagina
     return res.render("give-classes.html", { subjects, weekdays });
 }
 
 async function saveClasses(req, res) {
     const createProffy = require("./database/createProffy")
 
-    // const data = req.body
     const proffyValue = {
         name: req.body.name,
         avatar: req.body.avatar,
@@ -111,7 +80,6 @@ async function saveClasses(req, res) {
         await createProffy(db, {proffyValue, classValue, classScheduleValues})
 
         let queryString = "?subject=" + req.body.subject
-        // queryString = queryString + ""
         queryString += "&weekday=" + req.body.weekday[0]
         queryString += "&time=" + req.body.time_from[0]
 
@@ -119,7 +87,6 @@ async function saveClasses(req, res) {
     } catch (error) {
         console.log(error)
     }
-
 }
 
 module.exports = {

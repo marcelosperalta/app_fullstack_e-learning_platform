@@ -11,11 +11,10 @@
     <link rel="stylesheet" href="./styles/partials/page-give-classes.css">
     
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet"> -->
-
-
-    <!-- defer = This Boolean attribute is set to indicate to a browser that the script is meant to be executed after the document has been parsed, but before firing DOMContentLoaded.
-    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script -->
+    
+    <!-- defer = This Boolean attribute is set to indicate to a browser that the script 
+    is meant to be executed after the document has been parsed, but before firing DOMContentLoaded. -->
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script -->
     <script src="./scripts/addField.js" defer></script>
 </head>
 <body id="page-give-classes">
@@ -36,7 +35,7 @@
         </header>
 
         <main>
-            <!-- method="POST" esconde a url -->
+            <!-- method="POST" hides the "url" -->
             <form action="/save-classes" id="create-class" method="POST">
                 <fieldset>
                     <legend>Seus dados</legend>
@@ -65,21 +64,13 @@
                         <label for="subject">Matéria</label>
                         <select name="subject" id="subject">
                             <option value="">Selecione uma opção</option>
+
                             {%for subject in subjects %}
                                 <option value="{{loop.index}}">
                                     {{subject}}
                                 </option>
                             {%endfor%}
-                            <!-- <option value="1">Artes</option>
-                            <option value="2">Biologia</option>
-                            <option value="3">Ciências</option>
-                            <option value="4">Educação física</option>
-                            <option value="5">Física</option>
-                            <option value="6">Geografia</option>
-                            <option value="7">História</option>
-                            <option value="8">Matemática</option>
-                            <option value="9">Português</option>
-                            <option value="10">Química</option> -->
+
                         </select>
                     </div>
 
@@ -102,18 +93,13 @@
                             <label for="weekday">Dia da semana</label>
                             <select name="weekday[]" required>
                                 <option value="">Selecione uma opção</option>
+
                                 {%for weekday in weekdays %}
                                     <option value="{{loop.index0}}">
                                         {{weekday}}
                                     </option>
                                 {%endfor%}
-                                <!-- <option value="0">Domingo</option>
-                                <option value="1">Segunda-feira</option>
-                                <option value="2">Terça-feira</option>
-                                <option value="3">Quarta-feira</option>
-                                <option value="4">Quinta-feira</option>
-                                <option value="5">Sexta-feira</option>
-                                <option value="6">Sábado</option> -->
+
                             </select>
                         </div>
 
@@ -128,32 +114,6 @@
                         </div>
                     </div>
 
-                    <!-- <div class="schedule-item">
-
-                        <div class="select-block">
-                            <label for="weekday">Dia da semana</label>
-                            <select name="weekday[]" required>
-                                <option value="">Selecione uma opção</option>
-                                <option value="0">Domingo</option>
-                                <option value="1">Segunda-feira</option>
-                                <option value="2">Terça-feira</option>
-                                <option value="3">Quarta-feira</option>
-                                <option value="4">Quinta-feira</option>
-                                <option value="5">Sexta-feira</option>
-                                <option value="6">Sábado</option>
-                            </select>
-                        </div>
-
-                        <div class="input-block">
-                            <label for="time_from">Das</label>
-                            <input type="time" name="time_from[]" required>
-                        </div>
-
-                        <div class="input-block">
-                            <label for="time_to">Até</label>
-                            <input type="time" name="time_to[]" required>
-                        </div>
-                    </div> -->
                 </fieldset>
             </form>
 
@@ -166,9 +126,5 @@
             </footer>
         </main>
     </div>
-
-    <!-- <script>
-        document.querySelector("#container").style.backgroundColor = "red";
-    </script> -->
 </body>
 </html>
