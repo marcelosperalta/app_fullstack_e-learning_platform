@@ -15,7 +15,6 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 &nbsp;
 <img src="./readme/logos/node.png" width="110">
 &nbsp;
-&nbsp;
 <img src="./readme/logos/expressjs.png" width="230">
 &nbsp;
 &nbsp;
