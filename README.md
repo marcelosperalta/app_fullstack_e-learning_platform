@@ -6,18 +6,19 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 <div align="center">
 <img src="./readme/logos/HTML5.png" width="69">
-&nbsp
+&nbsp;
 <img src="./readme/logos/CSS3.png" width="50">
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 <img src="./readme/logos/JS.png" width="70">
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 <img src="./readme/logos/node.png" width="110">
-&nbsp
+&nbsp;
+&nbsp;
 <img src="./readme/logos/expressjs.png" width="200">
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 <img src="./readme/logos/SQLite.png" width="150">
 </div>
 
@@ -81,7 +82,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 ## :dvd: **_install package.json dependencies:_**
 
-on bash/terminal  
+on bash / terminal  
 ```
 npm install
 ```
@@ -89,14 +90,19 @@ npm install
 
 ## :runner: **_run the project:_**  
 
-on bash/terminal  
+on bash / terminal  
 ```
 npm run dev
 ```
 
 on browser  
 
-http://127.0.0.1:5500/ or http://localhost:5500/  
+- http://127.0.0.1:5500/
+
+or
+
+- http://localhost:5500/
+
 <br>
 
 ## :green_book: **_concepts:_**  
