@@ -16,7 +16,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 <img src="./readme/logos/node.png" width="110">
 &nbsp;
 &nbsp;
-<img src="./readme/logos/expressjs.png" width="200">
+<img src="./readme/logos/expressjs.png" width="230">
 &nbsp;
 &nbsp;
 <img src="./readme/logos/SQLite.png" width="150">
@@ -71,7 +71,7 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 [Node.js](https://nodejs.org/en/)  
 
-[Express](https://expressjs.com/)  
+[Express.js](https://expressjs.com/)  
 
 [Nunjucks](https://mozilla.github.io/nunjucks/)  
 
