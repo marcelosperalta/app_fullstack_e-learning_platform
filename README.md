@@ -104,6 +104,14 @@ http://localhost:5500/
 
 <br>
 
+## :rocket: **_deploy to [GitHub Pages](https://pages.github.com/):_**
+
+on bash/terminal  
+```
+npm run deploy
+```
+<br>
+
 ## :green_book: **_concepts:_**  
 
 [Responsive web design (Mobile First...)](https://en.wikipedia.org/wiki/Responsive_web_design)  

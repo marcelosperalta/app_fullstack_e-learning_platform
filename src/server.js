@@ -10,7 +10,7 @@ const {
 
 // "nunjucks" configutarion 
 const nunjucks = require("nunjucks");
-nunjucks.configure("./src/views", {
+nunjucks.configure("./src", {
     express: server,
     noCache: true,
 })
@@ -20,7 +20,7 @@ server
 // receive data from "req.body"
 .use(express.urlencoded({ extended: true }))
 // config static files (css, scripts, imagens)
-.use(express.static("public"))
+.use(express.static("./src/public"))
 // http://127.0.0.1:5500
 .get("/", pageLanding)
 // http://127.0.0.1:5500/study
