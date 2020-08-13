@@ -1,4 +1,5 @@
 {
+  "homepage": "https://marcelosperalta.github.io/fullstack_mockup_ElearningPlatform/",
   "name": "rocketseat_nlw2",
   "main": "server.js",
   "scripts": {
