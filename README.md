@@ -38,15 +38,15 @@ An E-learning platform mock-up built with **[HTML](https://whatwg.org/)**, **[CS
 
 ### :iphone:  
 
-![mobile](./readme/screeshots/home_mobile.png)  
+![mobile](./readme/screenshots/home_mobile.png)  
 
 ### :computer:  
 
-![home](./readme/screeshots/home_desk.png)  
+![home](./readme/screenshots/home_desk.png)  
 
-![estudar](./readme/screeshots/study.png)  
+![estudar](./readme/screenshots/study.png)  
 
-![dar-aulas](./readme/screeshots/give-classes.png)  
+![dar-aulas](./readme/screenshots/give-classes.png)  
 <br>
 
 ## :wrench: **_tools "Front-end":_**  
