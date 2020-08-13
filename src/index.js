@@ -1,3 +1,5 @@
+import "./public/styles/main.css"
+
 const express = require("express");
 const server = express();
 
