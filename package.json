@@ -1,5 +1,6 @@
 {
   "name": "rocketseat_nlw2",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon src/server.js",
     "clean": "del-cli dist",
