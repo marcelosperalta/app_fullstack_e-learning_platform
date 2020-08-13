@@ -106,9 +106,13 @@ http://localhost:5500/
 
 ## :rocket: **_deploy to [GitHub Pages](https://pages.github.com/):_**
 
-on bash/terminal  
+on bash / terminal  
 ```
-npm run deploy
+npm run deploy-windows
+```
+or  
+```
+npm run deploy-linux
 ```
 <br>
 
