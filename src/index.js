@@ -1,12 +1,10 @@
-import "./public/styles/main.css"
-
 const express = require("express");
 const server = express();
 
 const { 
-    pageLanding, 
-    pageStudy, 
-    pageGiveClasses, 
+    pageLanding,
+    pageStudy,
+    pageGiveClasses,
     saveClasses
 } = require("./pages")
 
